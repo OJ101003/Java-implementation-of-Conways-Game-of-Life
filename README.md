@@ -1,1 +1,2 @@
-# Java-implementation-of-Conways-Game-of-Life
+Java based implementation of Conway's Game of Life
+CHECK THE .TXT FILE FOR RULES USED TO MAKE GAME, AND EXAMPLES ON HOW TO RUN THE PROGRAM
